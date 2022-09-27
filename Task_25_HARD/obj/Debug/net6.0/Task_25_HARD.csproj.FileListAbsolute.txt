@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\obj\Debug\net6.0\Task_25_HARD.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\obj\Debug\net6.0\Task_25_HARD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\obj\Debug\net6.0\Task_25_HARD.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\obj\Debug\net6.0\Task_25_HARD.AssemblyInfo.cs
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\obj\Debug\net6.0\Task_25_HARD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\bin\Debug\net6.0\Task_25_HARD.exe
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\bin\Debug\net6.0\Task_25_HARD.deps.json
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\bin\Debug\net6.0\Task_25_HARD.runtimeconfig.json
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\bin\Debug\net6.0\Task_25_HARD.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\bin\Debug\net6.0\Task_25_HARD.pdb
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\obj\Debug\net6.0\Task_25_HARD.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\obj\Debug\net6.0\refint\Task_25_HARD.dll
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\obj\Debug\net6.0\Task_25_HARD.pdb
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\obj\Debug\net6.0\Task_25_HARD.genruntimeconfig.cache
+C:\Users\User\Desktop\Phyton_work\GeekBrains обучение\3 Блок. Знакомство с языком программирования C#\Семинар 4. С#\Task_25_HARD\obj\Debug\net6.0\ref\Task_25_HARD.dll
